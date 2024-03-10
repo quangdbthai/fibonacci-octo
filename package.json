@@ -1,0 +1,26 @@
+{
+  "name": "fibonacci-octo",
+  "version": "1.0.0",
+  "description": "Calculating means, fibonaci scale upcoming",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "fibonacci-octo": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quangdbthai/fibonacci-octo.git"
+  },
+  "homepage": "https://github.com/quangdbthai/fibonacci-octo/blob/main/README.md",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "quangdbthai",
+  "license": "MIT"
+}

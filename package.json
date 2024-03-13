@@ -1,6 +1,6 @@
 {
   "name": "fibonacci-octo",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Calculating means, fibonaci scale upcoming",
   "main": "average.js",
   "scripts": {
